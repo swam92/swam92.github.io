@@ -1,3 +1,8 @@
 .footer-pad{
 	padding-right: 10px;
 }
+
+img{
+    height: auto;
+    max-width: 100%;
+}
