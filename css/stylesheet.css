@@ -23,3 +23,7 @@ img{
 .books-container{
 	margin-left: 50px;
 }
+
+.books-author{
+  font-weight: bold;
+}
