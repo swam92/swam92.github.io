@@ -14,3 +14,8 @@ img{
 .table-cell{
 	text-align:center;
 }
+
+.table-row{
+	padding-left:25px;
+	padding-right:25px;
+}
