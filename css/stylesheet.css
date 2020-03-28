@@ -27,3 +27,7 @@ img{
 .books-author{
   font-weight: bold;
 }
+
+.flip-hor{
+	transform: scaleX(-1);
+}
