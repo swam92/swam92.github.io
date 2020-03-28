@@ -29,5 +29,5 @@ img{
 }
 
 .flip-hor{
-	transform: scaleX(-1);
+	transform: scaleY(-1);
 }
