@@ -31,3 +31,8 @@ img{
 .flip-hor{
 	transform: scaleY(-1);
 }
+
+div#rot-90 {
+  -ms-transform: rotate(90deg); /* IE 9 */
+  transform: rotate(90deg); /* Standard syntax */
+}
