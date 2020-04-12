@@ -48,7 +48,7 @@ div#rot-90 {
 }
 
 .nav-enlarge:hover {
-    -webkit-transform: scale(1.5);
+    -webkit-transform: scale(1.2);
 }
 
  /* a:hover{ -webkit-transform: scale(1.2); }          font-size:40px;
