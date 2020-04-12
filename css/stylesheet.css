@@ -36,3 +36,20 @@ div#rot-90 {
   -ms-transform: rotate(90deg); /* IE 9 */
   transform: rotate(90deg); /* Standard syntax */
 }
+
+.nav-item-style{
+	text-decoration: none;
+	color:black;
+
+}
+
+.nav-enlarge{
+	font-size:16px;
+}
+
+.nav-enlarge:hover {
+    -webkit-transform: scale(1.5);
+}
+
+ /* a:hover{ -webkit-transform: scale(1.2); }          font-size:40px;
+*/
